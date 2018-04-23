@@ -1,0 +1,4 @@
+﻿<!--
+See http://www.devexpress.com/example=E2635, to get the detailed example on using the Silverlight-enabled ExportService.
+-->
+<%@ ServiceHost Service="DevExpress.Xpf.Printing.Service.ExportService, DevExpress.Xpf.Printing.v13.2.Service, Version=13.2.0.0, Culture=neutral, PublicKeyToken=79868b8147b5eae4" %>
