@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [MainPage.xaml](./CS/UseSimpleLink/MainPage.xaml) (VB: [MainPage.xaml.vb](./VB/UseSimpleLink/MainPage.xaml.vb))
+* [MainPage.xaml](./CS/UseSimpleLink/MainPage.xaml) (VB: [MainPage.xaml](./VB/UseSimpleLink/MainPage.xaml))
 * **[MainPage.xaml.cs](./CS/UseSimpleLink/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/UseSimpleLink/MainPage.xaml.vb))**
 <!-- default file list end -->
 # How to use the Simple Link
