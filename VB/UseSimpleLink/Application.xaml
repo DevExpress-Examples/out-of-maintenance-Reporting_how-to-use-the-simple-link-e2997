@@ -1,7 +1,0 @@
-﻿<Application xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
-             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-             x:Class="UseSimpleLink.App" xmlns:my="clr-namespace:System;assembly=mscorlib">
-    <Application.Resources>
-    <my:String x:Key="DevExpress.Xpf.License">9D-A0-2F-C5-F4-9A-7F-92-A9-AB-4C-FF-76-EE-61-98-93-FE-6A-7C</my:String>
-  </Application.Resources>
-</Application>
